@@ -5,7 +5,7 @@
 - 💬 Ask me about ...
   - machine learning
   - Natural Language Processing
-  - running exceptional teams
+  - building from scratch and managing exceptional teams
   - actual innovation
 - 📫 How to reach me: email me or [Linkedin](https://www.linkedin.com/in/victor-para/)
 
