@@ -3,6 +3,9 @@
 
 
 - 💬 Ask me about ...
+  - how to automate the labour of contract creation, negotiation, signing and post-execution management
+  - how to deploy AI to legal contracts
+  - legal technologies 
   - machine learning
   - Natural Language Processing
   - building from scratch and managing exceptional teams
