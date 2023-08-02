@@ -5,12 +5,13 @@
 
 
 - 💬 Ask me about ...
-  - how to automate the labour of contract creation, negotiation, signing and post-execution management
-  - how to deploy AI to legal contracts
-  - legal technologies 
-  - machine learning
-  - Natural Language Processing
+  - deploying actual innovation
   - building from scratch and managing exceptional teams
-  - actual innovation
-- 📫 How to reach me: email me or via [Linkedin](https://www.linkedin.com/in/victor-para/)
+  - solving hard problems, with your head
+  - the future of app building
+  - personalized learning and what learning in 2030 looks like
+  - how to automate the labour of contract creation, negotiation, signing and post-execution management
+  - how to deploy AI to legal contract management
+  - Natural Language Processing and LLMs
 
+- 📫 How to reach me: email me or via [Linkedin](https://www.linkedin.com/in/victor-para/)
