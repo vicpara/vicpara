@@ -12,4 +12,4 @@
   - how to deploy AI to legal contract management;
   - creating a digital signature infrastructure for PDF signing using PKI;
 
-- 📫 Reach me via email me or via [Linkedin](https://www.linkedin.com/in/victor-para/)
+- 📫 Reach me via email or [Linkedin](https://www.linkedin.com/in/victor-para/)
